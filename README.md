@@ -4,12 +4,12 @@
 This project utilises machine learning techniques to predict household energy consumption, aiming to enhance energy management efficiency.
 
 ## Installation
-1. Ensure MATLAB is installed.
+1. Ensure MATLAB is installed, as well as the **curve fitting toolbox** and the **statistics_toolbox**.
 2. Clone the repository:
    ```bash
    git clone https://github.com/George-Craft/Machine-Learning-Project.git
-3. Navigate to the project directory and open MATLAB.
-4. Run the main script 'main_run'
+3. Navigate to the project directory and open 'main_run'.
+4. Run the script 'main_run'. (If asked to change path, do so).
 
 ## Results
 Results can be seen as well as the project report in the results folder.
