@@ -3,9 +3,7 @@
 clc
 clear all % clear variables and command window
 
-addpath('src')
-
-T = readtable('data/household_energy_data.csv'); % loads data into a table
+T = readtable('household_energy_data.csv'); % loads data into a table
 T = removevars(T,["RadonLevel_Bqm3","windBearing","windSpeed","dewPoint","pressure"]); % remove the variables that wont have a noticable effect/any effect on power
 Tcols = height(T); % retrieves the height of the table
 %% Convert all data to numeric numbers
