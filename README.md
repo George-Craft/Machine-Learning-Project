@@ -8,7 +8,7 @@ This project utilises machine learning techniques to predict household energy co
 2. Clone the repository:
    ```bash
    git clone https://github.com/George-Craft/Machine-Learning-Project.git
-3. Navigate to the project directory and open 'main_run'.
+3. Navigate to the project directory and open 'main_run' inside the src folder.
 4. Run the script 'main_run'. (If asked to change path, do so).
 
 ## Results
