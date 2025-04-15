@@ -9,7 +9,7 @@ This project utilises machine learning techniques to predict household energy co
    ```bash
    git clone https://github.com/George-Craft/Machine-Learning-Project.git
 3. Navigate to the project directory and open 'main_run' inside the src folder.
-4. Run the script 'main_run'. (If asked to change path, do so).
+4. Run the script 'main_run', ensuring to change the MATLAB current folder.
 
 ## Results
 Results can be seen inside the project report in the results folder.
